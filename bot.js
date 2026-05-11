@@ -9,16 +9,16 @@ app.use(express.json());
 
 // ============== CONFIGURATION ==============
 const CONFIG = {
-  BOT_TOKEN: "8235223939:AAGEuZEQse4eaTvHPqstvCPYJWtek0ycPCA",
+  BOT_TOKEN: "8586686685:AAHyIUyQrdfQt-OJfWvOZCPLc4QDY80WLcc",
   API_BASE: "https://astha-9vd8.onrender.com/tapi-ed01ffd7362370fdaf13a6a2a41cd433?phone=",
-  ADMIN_IDS: [8217006573], // 🔴 APNA TELEGRAM ID YAHAN DALO
+  ADMIN_IDS: [7892805795], // 🔴 APNA TELEGRAM ID YAHAN DALO
   FREE_CREDITS: 7,
   REFER_CREDIT: 1,
   PREMIUM_PRICE: "₹39",
   DB_FILE: "./database.json"
 };
 
-const CREDIT = "⚡ 𝑺𝒌 ꭗ 𓆩𝐌.𝐒.𝐃𓆪 & ☠︎𝙑𝙞𝙧𝙖𝙩𓆪";
+const CREDIT = "⚡ 𝐀𝐊 ꭗ ☠︎ ꧁𓊈𒆜 𝐀𝐍𝐔𝐉 𝐊𝐔𝐌𝐀𝐑 𒆜𓊉꧂";
 
 // ============== DATABASE ==============
 class Database {

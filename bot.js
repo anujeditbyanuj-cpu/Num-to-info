@@ -10,7 +10,7 @@ app.use(express.json());
 // ============== CONFIGURATION ==============
 const CONFIG = {
   BOT_TOKEN: "8586686685:AAHyIUyQrdfQt-OJfWvOZCPLc4QDY80WLcc",
-  API_BASE: "https://astha-9vd8.onrender.com/tapi-ed01ffd7362370fdaf13a6a2a41cd433?phone=",
+  API_BASE: "https://num-to-info-veua.onrender.com/tapi-ed01ffd7362370fdaf13a6a2a41cd433?phone=",
   ADMIN_IDS: [7892805795], // 🔴 APNA TELEGRAM ID YAHAN DALO
   FREE_CREDITS: 7,
   REFER_CREDIT: 1,
